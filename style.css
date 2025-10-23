@@ -27,7 +27,7 @@ header{
   align-items:center;
   padding:20px 30px;
 }
-.logo{
+.logo{filter: drop-shadow(0 0 4px var(--gold));
   height:40px;
 }
 nav a{
